@@ -39,7 +39,7 @@
 #### 🧩 [Rubik’s Cube (3D)](https://github.com/ahmetnecirvandogan/RubiksCube)
 > Shader-based cube with color picking, animation, and transformation matrices—real-time rendered and interactive.
 
-#### 🟡 [Bouncing Object Simulation](https://github.com/ahmetnecirvandogan/BouncingObjectSimulation)
+#### 🟡 [Bouncing Object Simulation](https://github.com/ahmetnecirvandogan/BouncingObjectVisual)
 > Object physics in OpenGL using C/C++, switching between models (cube, sphere, bunny) with interactive rendering.
 
 #### 🏀 [NBA Simulation Game (Java)](https://github.com/ahmetnecirvandogan/NBA-GAME)
