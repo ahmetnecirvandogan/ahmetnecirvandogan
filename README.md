@@ -30,19 +30,19 @@
 
 ### 🚀 Highlight Projects
 
-#### 🔧 [Interactive World Building Game](https://github.com/ahmetnecirvandogan/TerrainDemo)
+#### 🔧 [Interactive World Building Game](https://github.com/ahmetnecirvandogan/InteractiveWorldBuilding)
 > 3D simulation in OpenGL/C++ with modular terrain grid, Phong lighting, and dynamic day-night cycle.
 
-#### 🔴 Sphere Renderer
+#### 🔴 [Sphere Renderer](https://github.com/ahmetnecirvandogan/SphereRenderer)
 > Custom PPM texture loading, shading techniques (Phong/Gouraud), planar shadow projection with real-time toggles.
 
-#### 🧩 Rubik’s Cube (3D)
+#### 🧩 [Rubik’s Cube (3D)](https://github.com/ahmetnecirvandogan/RubiksCube)
 > Shader-based cube with color picking, animation, and transformation matrices—real-time rendered and interactive.
 
-#### 🟡 Bouncing Object Simulation
+#### 🟡 [Bouncing Object Simulation](https://github.com/ahmetnecirvandogan/BouncingObjectSimulation)
 > Object physics in OpenGL using C/C++, switching between models (cube, sphere, bunny) with interactive rendering.
 
-#### 🏀 NBA Simulation Game (Java)
+#### 🏀 [NBA Simulation Game (Java)](https://github.com/ahmetnecirvandogan/NBA-GAME)
 > Java OOP project simulating NBA seasons/playoffs with player drafting, Swing GUI, and statistics logging.
 
 ---
