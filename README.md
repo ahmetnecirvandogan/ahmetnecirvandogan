@@ -53,6 +53,10 @@
 - **Stanford University** – Graph Search, Shortest Paths, and Data Structures  
 - **MATLAB Certification** – Koç University  
 - **Disney Internships and Programs** – The Walt Disney Company
+- **C++ For C Programmers** - University of California, Santa Cruz
+- **Software Engineering: Implementation and Testing** - The Hong Kong University of Science and Technology
+- **Software Engineering: Modeling Software Systems using UML** - The Hong Kong University of Science and Technology
+- **Software Engineering: Software Design and Project Management** - The Hong Kong University of Science and Technology
 
 ---
 
