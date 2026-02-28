@@ -15,8 +15,8 @@
 ---
 
 🎓 **Computer Engineering Student** @ Koç University (2022–2027)  
-🌍 **International College Program Intern** @ Walt Disney World (Summer 2024)  
-💻 Passionate about **Computer Graphics**, **OpenGL**, and **Interactive Simulations**
+🌍 **Disney Programs Alumni** @ Walt Disney World 
+💻 Passionate about **Computer Graphics**
 
 ---
 
