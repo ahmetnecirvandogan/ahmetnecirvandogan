@@ -14,9 +14,12 @@
 
 ---
 
-🎓 **Computer Engineering Student** @ Koç University (2022–2027)  
-🌍 **Disney Programs Alumni** @ Walt Disney World 
-💻 Passionate about **Computer Graphics**
+🎓 **Computer Engineering Student** @ Koç University
+
+🎨 Passionate about **Computer Graphics** and **Music**
+
+🐭 **Disney Programs Alumni** @ Walt Disney World
+
 
 ---
 
