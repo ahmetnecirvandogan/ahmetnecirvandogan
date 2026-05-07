@@ -14,7 +14,7 @@
 
 ---
 
-🎓 **Computer Engineering Student** @ Koç University
+🎓 **Computer Engineering & Visual Arts Student** @ Koç University
 
 🎨 Passionate about **Computer Graphics** and **Music**
 
